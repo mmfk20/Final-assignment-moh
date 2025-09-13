@@ -1,0 +1,18 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# SQLite database file
+student.db
+
+# VS Code settings
+.vscode/
+
+# Visual Studio settings
+*.ncrunch*
+*.local.json
